@@ -1,0 +1,16 @@
+{
+  "name": "assignment5",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "haolin li",
+  "license": "ISC",
+  "dependencies": {
+    "async": "^3.2.0",
+    "mongoose": "^5.9.5",
+    "node.js": "0.0.0"
+  }
+}
